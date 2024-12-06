@@ -44,3 +44,13 @@ print_todays_date()
 
 add(1,2)
 add(12,22,46,78,56,34,13,55)
+add(74,56,65,24,74,23,12)
+
+#data name phone gender amaoun
+#account
+#deposit withdrawal check balance
+#oop
+#----------------------
+
+
+
